@@ -1,0 +1,6 @@
+{
+  "/user/page": "app/user/page.js",
+  "/user/bodySurvey/page": "app/user/bodySurvey/page.js",
+  "/user/bodySurvey/userProfile/page": "app/user/bodySurvey/userProfile/page.js",
+  "/user/bodySurvey/userProfile/caloDiary/page": "app/user/bodySurvey/userProfile/caloDiary/page.js"
+}
