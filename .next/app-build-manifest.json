@@ -3,6 +3,7 @@
     "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
+      "static/css/app/page.css",
       "static/chunks/app/page.js"
     ],
     "/layout": [
@@ -10,25 +11,33 @@
       "static/chunks/main-app.js",
       "static/chunks/app/layout.js"
     ],
-    "/user/page": [
+    "/fitAI/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/user/page.js"
+      "static/css/app/fitAI/page.css",
+      "static/chunks/app/fitAI/page.js"
     ],
-    "/user/bodySurvey/page": [
+    "/fitAI/about/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/user/bodySurvey/page.js"
+      "static/css/app/fitAI/about/page.css",
+      "static/chunks/app/fitAI/about/page.js"
     ],
-    "/user/bodySurvey/userProfile/page": [
+    "/fitAI/login/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/user/bodySurvey/userProfile/page.js"
+      "static/chunks/app/fitAI/login/page.js"
     ],
-    "/user/bodySurvey/userProfile/caloDiary/page": [
+    "/fitAI/register/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/user/bodySurvey/userProfile/caloDiary/page.js"
+      "static/css/app/fitAI/register/page.css",
+      "static/chunks/app/fitAI/register/page.js"
+    ],
+    "/not-found": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/not-found.js"
     ]
   }
 }

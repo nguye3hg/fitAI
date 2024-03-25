@@ -1,6 +1,7 @@
 {
-  "/user/page": "app/user/page.js",
-  "/user/bodySurvey/page": "app/user/bodySurvey/page.js",
-  "/user/bodySurvey/userProfile/page": "app/user/bodySurvey/userProfile/page.js",
-  "/user/bodySurvey/userProfile/caloDiary/page": "app/user/bodySurvey/userProfile/caloDiary/page.js"
+  "/not-found": "app/not-found.js",
+  "/fitAI/page": "app/fitAI/page.js",
+  "/fitAI/about/page": "app/fitAI/about/page.js",
+  "/fitAI/register/page": "app/fitAI/register/page.js",
+  "/fitAI/login/page": "app/fitAI/login/page.js"
 }

@@ -1,13 +1,14 @@
 import Link from 'next/link'
+import "./style.css"
 
-function Page() {
+function homepage() {
   return (
     <div>
-            <Link href="/user">Link to login or sign up page</Link>
-            <h1>Hello, Home page!  </h1>
+            <Link href="/fitAI">Link to website</Link>
+            <h1>This is a landing site click link to continue  </h1>
 
     </div>
   );
 }
 
-export default Page
+export default homepage
